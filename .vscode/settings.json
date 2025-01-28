@@ -1,0 +1,18 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "bibliotheque",
+            "group": "Bibliothèque_Java",
+            "database": "bibliotheque",
+            "username": "postgres",
+            "connectionTimeout": 2000
+        }
+    ],
+    "dbcode.connections": []
+}
